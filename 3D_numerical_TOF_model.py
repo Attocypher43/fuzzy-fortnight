@@ -21,6 +21,8 @@ from scipy.interpolate import interp1d
 ## 1. DYNAMICS RANGE
 ## 2. Better resolution curve plots
 
+
+## BONJOUR!!
 ## Begin code timer
 
 start_time = timeit.time()
