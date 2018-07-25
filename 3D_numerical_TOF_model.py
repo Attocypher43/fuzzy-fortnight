@@ -23,6 +23,7 @@ from scipy.interpolate import interp1d
 
 
 ## BONJOUR!!
+## COMMENT CA VA ?
 ## Begin code timer
 
 start_time = timeit.time()
